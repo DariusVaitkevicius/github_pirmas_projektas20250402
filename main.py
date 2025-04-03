@@ -1,4 +1,4 @@
-shopping_list = ["pienas", "kiaušiniai", "duona", "sviestas", "tortas"]
+shopping_list = ["pienas", "kiaušiniai", "duona", "sviestas", "arbuzas"]
 print(shopping_list)
 print(shopping_list[0])
 
